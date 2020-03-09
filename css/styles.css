@@ -27,6 +27,7 @@
 .section a {
   position: absolute;
   bottom: 0;
+  color: #CD5C5C;
 }
 
 .col-sm-6, .col-sm-12 { 
